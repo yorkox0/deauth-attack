@@ -5,4 +5,5 @@ Instalación:
 ```
 git clone https://github.com/yorkox0/deauth-attack
 cd deauth-attack
-bash
+chmod +x *.sh
+sudo ./deauth-attack.sh
